@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SunLukeP
-- I am a Computer Science Student in HKUST, focusing in studying AI
+- I am a Computer Science Student in HKUST
 - 👀 I’m interested in playing video games and watching videos on YouTube
 - 📫 How to reach me: lspoonab@connect.ust.hk
 - LinkedIn: www.linkedin.com/in/sunlukep
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: This guy is not so fun
 - I love mushroom, mushroom is yummy!
 
